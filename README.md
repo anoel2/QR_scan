@@ -1,11 +1,8 @@
 ## Name
-Adak
-
-## Description
-Welcome to Adak. Adak is a system that allows users to scan a QR code, and dependent on time presents an HTML page with a prompt for the user, and then sends out a teams notification, and opens a troubleticket on their behalf. 
+Teams QR code. Intention is to post QR codes in areas of interest, or on objects. When scanned, will load a pre-determined message in Teams via Webhook.  
 
 ## Authors and acknowledgment
-Anthony Noel anthony.noel@colorado.edu
+alexnoel2@gmail.com
 
 ## License
 Open Source GNU License
