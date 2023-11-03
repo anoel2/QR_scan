@@ -47,7 +47,7 @@ def index():
 @limiter.limit("1 per 5 minute")
 #Insert actual teams_function name from teams.py#
 def teams_<function name>():
-		executor.submit(teams_a104);
+		executor.submit(teams_function);
 		return render_template('new.html')
 ##########################################################
 #########
